@@ -16,7 +16,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-///renew
 class MyPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
